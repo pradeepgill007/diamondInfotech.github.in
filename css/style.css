@@ -444,6 +444,10 @@ h6,
     transition: .3s .15s;
 }
 
+.team-item .team-img{
+    height: 400px;
+}
+
 .team-item .team-img img,
 .blog-item .blog-img img  {
     transition: .5s;
